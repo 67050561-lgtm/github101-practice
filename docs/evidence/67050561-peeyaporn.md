@@ -1,26 +1,29 @@
 # GitHub Practice Evidence — [นางสาวปรียาภรณ์ เดชพันธ์]
 
-## 1. My GitHub Username
+## What I did
+* ESP32 Firmware
+* Wiring Diagram
+* Hardware Photo
+* Serial Monitor Screenshot
 
-[67050561-lgtm]
+## My role in project
+Embedded / IoT Developer
 
-## 2. My Team / Role
+## Evidence link
+ firmware/wakeguard_v1.ino
+ hardware/wiring-diagram.png
+ hardware/hardware-photo.jpg
 
-- Team: WakeGuard
-- Role in Sprint: Embedded / IoT Developer
-
-## 3. What I did in this repo
-
-เขียน code , ต่อวงจร
-
-## 4. Evidence Link
-
-- README link:
-- Commit link:
-- Issue link:
-
-## 5. Reflection
-
-1. วันนี้ฉันเพิ่ม/แก้ไขอะไรใน repo:
-2. ฉันใช้วิธีไหน: GitHub Web / GitHub Desktop / command line / อื่น ๆ
-3. ฉันติดปัญหาอะไร และแก้อย่างไร: 
+## Reflection
+วันนี้ฉันเรียนรู้อะไรจากการใช้ GitHub: 
+* เรียนรู้การ Fork และ Clone Repository
+* เรียนรู้การแก้ไขไฟล์ README และสร้างไฟล์ใหม่ใน Repository
+* เรียนรู้การ Commit และ Push งานขึ้น GitHub
+* เรียนรู้การสร้าง GitHub Issue เพื่อใช้ติดตามงาน
+ฉันติดปัญหาอะไร:
+* ยังไม่คุ้นเคยกับการใช้งาน GitHub และโครงสร้างของ Repository
+* สับสนเรื่องการสร้างไฟล์ Evidence และการนำลิงก์ต่าง ๆ มาใส่ใน README
+ฉันแก้ปัญหาอย่างไร:
+* อ่านคำแนะนำใน README อย่างละเอียด
+* ศึกษาวิธีการใช้งาน GitHub จากเอกสารและตัวอย่างที่อาจารย์ให้
+* ทดลองทำตามขั้นตอนทีละข้อจนสามารถดำเนินการได้สำเร็จ
