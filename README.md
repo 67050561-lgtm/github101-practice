@@ -29,7 +29,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 ### Task 1: เข้า repo และเปิด README
 
-เปิด repo นี้ และอ่านคำชี้แจงใน README
+เปิด repo นี้ และอ่านคำชี้แจงใน README 
 
 ### Task 2: แก้ไข README
 
