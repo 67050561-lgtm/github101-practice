@@ -7,7 +7,7 @@ Description:
  * Commit และ Push งานขึ้น GitHub
  * ส่งลิงก์หลักฐานที่สามารถเปิดตรวจสอบได้
 - Evidence:
- * GitHub Username: gxHo4kKkwmplb
+ * GitHub Username: 67050561-lgtm
  * ไฟล์ Evidence: docs/evidence/[ชื่อไฟล์ของคุณ].md
 - Blocker:
  * ไม่มี
