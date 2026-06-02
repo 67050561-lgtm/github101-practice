@@ -76,7 +76,7 @@ docs/evidence/66000000-somchai.md
 Commit message ควรสื่อความหมาย เช่น
 
 ```text
-add GitHub practice evidence for Somchai
+add GitHub practice evidence for peeyaporn
 ```
 
 ### Task 5: สร้าง GitHub Issue
