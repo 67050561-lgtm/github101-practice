@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| ปรียาภรณ์ เดชพันธ์ | Team 12 | Demo , Iot Developer | [example evidence](docs/evidence/example-student.md) | - |
+| ปรียาภรณ์ เดชพันธ์ | Team 12 | Demo , Iot Developer | [(https://github.com/67050561-lgtm/github101-practice/blob/584636c66b59f6445097c037ea2e41a3d09ae4f5/docs/evidence/67050561-peeyaporn.md) | - |
 
 ---
 
